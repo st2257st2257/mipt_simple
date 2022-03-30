@@ -4,7 +4,7 @@ import turtle
 
 number_of_turtles = 10
 steps_of_time_number = 1000
-
+ 
 
 
 a,b = 200,200
